@@ -18,7 +18,7 @@
 
 ### ⚙️ 개발 환경
 
--   `Next JS 15`
+-   `Next JS 14`
 -   `tailwind css`
 -   **IDE** : VSC
 
