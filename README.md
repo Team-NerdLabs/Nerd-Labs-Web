@@ -1,30 +1,81 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Nerd Labs web
 
-## Getting Started
+너드랩스 소개 페이지
 
-First, run the development server:
+## 🖥️ 프로젝트 소개
 
-```bash
-yarn dev
+너드랩스를 소개하는 웹 사이트 페이지 입니다.
+<br>
+
+## 🕰️ 개발 기간
+
+-   v1
+    -   24.10.19 ~
+
+### 🧑‍🤝‍🧑 맴버구성
+
+-   팀장 : <a href="https://github.com/3boku" >정현서</a>
+
+### ⚙️ 개발 환경
+
+-   `Next JS 15`
+-   `tailwind css`
+-   **IDE** : VSC
+
+## 📌 주요 기능
+
+## ✉️ 커밋 메세지
+
+```
+################
+# <타입> : <제목> 의 형식으로 제목을 아래 공백줄에 작성
+# 제목은 50자 이내 / 변경사항이 "무엇"인지 명확히 작성 / 끝에 마침표 금지
+# 예) feat : 로그인 기능 추가
+################
+# feat : 새로운 기능 추가
+# fix : 버그 수정
+# docs : 문서 수정
+# test : 테스트 코드 추가
+# refact : 코드 리팩토링
+# style : 코드 의미에 영향을 주지 않는 변경사항
+# chore : 빌드 부분 혹은 패키지 매니저 수정사항
+################
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✉️ PR 템플릿
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+## 🔘Part
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- [x] FE
 
-## Learn More
+  <br/>
 
-To learn more about Next.js, take a look at the following resources:
+## 🔎 작업 내용
 
--   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
--   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 기능에서 어떤 부분이
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 구현되었는지 설명해주세요
 
-## Deploy on Vercel
+  <br/>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 이미지 첨부
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<img src="파일주소" width="50%" height="50%"/>
+
+<br/>
+
+## 🔧 앞으로의 과제
+
+- 내일 할 일을
+
+- 적어주세요
+
+  <br/>
+
+## ➕ 이슈 링크
+
+- [레포 이름 #이슈번호](이슈 주소)
+
+<br/>
+```
